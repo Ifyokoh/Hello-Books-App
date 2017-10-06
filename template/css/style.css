@@ -109,7 +109,35 @@ button {
 
 /*catalog page*/
 
+/*profile page*/
 
+.main-content {
+  margin: 50px 50px;  
+  background-color: #f2f2f2; 
+  padding: 20px; 
+}
+.main-content img {
+   float: left;
+   padding: 0 20px 20px 0;
+}
+
+.drop {
+  float: left;
+   padding: 0 20px 20px 0;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+/*profile page*/
 
 
 
